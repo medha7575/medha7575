@@ -1,6 +1,6 @@
 👋 Hi, I am Medha, a Ph.D. Scholar at the University of Toronto with a research focus on computational systems modeling. 
 
-💞️ I’m looking to collaborate on data science or business analytics projects
+💞️ I’m looking to collaborate on data science or business analytics projects. You can follow me on www.linkedin.com/in/sharma-medha/
 
 👀 **Key Facts About Me**
    - I have Masters in Control and Instrumental Engineering and Bachelor's in Electrical Engineering
